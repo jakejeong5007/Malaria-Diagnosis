@@ -9,5 +9,9 @@ Detecting Parkinson's disease
 Detecting COVID-19
 Detecting Eye diseases
 
+# Sample Image
+![image](https://user-images.githubusercontent.com/58636195/137656161-8b12a0f4-5fbb-4e96-b112-aa8bcbaa5def.png)
+![image](https://user-images.githubusercontent.com/58636195/137656167-2fd88797-5495-47c3-964a-cbe53a01b37e.png)
+
 # Resources
 Inpirit-AI
